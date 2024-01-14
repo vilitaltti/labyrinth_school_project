@@ -4,11 +4,11 @@ Simple 3D labyrinth project developed for Aalto university's course CS-A1121
 
 Uses graph for developing maze and Dijktra's algorithm to solve the maze. 
 
-TODO: 
-    - Graphical interface is still bugy and location of player is no exact 
-    - Menu and player movement
-    - Larger test cases for the methods and classes
-    - Creating more efficient code 
+## TODO:
+1. Graphical interface is still bugy and location of player is no exact 
+2. Menu and player movement
+3. Larger test cases for the methods and classes
+4. Creating more efficient code 
     
 
 ## Dependencies: 
