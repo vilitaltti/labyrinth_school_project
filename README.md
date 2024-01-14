@@ -2,6 +2,9 @@
 
 Labyrintti projekti aalto yliopiston kurssille CS-A1121 varten
 
+Riippuvuudet:
+python-qt5 (graafinen toiminta ympäristö) 
+
 
 ## Checkpoint2
 
@@ -11,11 +14,11 @@ Labyrintti projekti aalto yliopiston kurssille CS-A1121 varten
 
    1.4.22 import ja export file toimtvat helpoissa tapauksissa. Tarvitaan ainakin universaalimpaa koodia import metodille. Testejä on toteutettu import metodille  
 
-   15.4.22 importissa on selvinnyt bugeja ja alkeelista guita luoto pelille. Nyt pelissä pelaaja liikuu (vihreät pallo) ja kun pääsee maaliin lopettaa liikkumisen (keltainen ruutu). Labyrintti ei piirry oikein ja esim pelaaja hyppää seinien yli. Importissa on vielä isompia ongelmia esimerkiksi pelaaja saattaa hypätä pois kartalta.
+   15.4.22 importissa on selvinnyt bugeja ja alkeelista guita luotu pelille. Nyt pelissä pelaaja liikuu (vihreät pallo) ja kun pääsee maaliin lopettaa liikkumisen (keltainen ruutu). Labyrintti ei piirry oikein ja esim pelaaja hyppää seinien yli. Importissa on vielä isompia ongelmia esimerkiksi pelaaja saattaa hypätä pois kartalta.
 
 ## Käyttöohje
     
-    aja test_gui.py nähdäksesi graafisen käyttöliittymän toiminnallisuutta
+    aja test_gui.py nähdäksesi graafisen käyttöliittymän toiminnallisuutta. 
 
 ## Aikataulu
 
